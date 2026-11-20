@@ -1,0 +1,38 @@
+[
+  {
+    "accountId": 10101,
+    "title": "Основной р/с Т-Банк",
+    "companyTitle": "ООО «Альфа Трейд»",
+    "accountType": "Electronic",
+    "accountAcct": "40702810100000123456",
+    "currencyCode": "RUB",
+    "planfactBalance": 1540200.50,
+    "actualBalance": 1540200.50,
+    "asOfDate": "2026-11-20",
+    "notes": "Сверено по официальной выписке 1C.txt на конец дня"
+  },
+  {
+    "accountId": 10102,
+    "title": "Бизнес-карта / Касса офис",
+    "companyTitle": "ООО «Альфа Трейд»",
+    "accountType": "Cash",
+    "accountAcct": "",
+    "currencyCode": "RUB",
+    "planfactBalance": 84500.00,
+    "actualBalance": 82000.00,
+    "asOfDate": "2026-11-20",
+    "notes": "Фактический пересчёт кассы; расхождение 2500.00 — проверить неподтверждённый расход"
+  },
+  {
+    "accountId": 10103,
+    "title": "Транзитный счёт эквайринга / WB",
+    "companyTitle": "ИП Иванов И.И.",
+    "accountType": "Electronic",
+    "accountAcct": "",
+    "currencyCode": "RUB",
+    "planfactBalance": 312400.00,
+    "actualBalance": 312400.00,
+    "asOfDate": "2026-11-20",
+    "notes": "Баланс ЛК маркетплейса к выводу (до зачисления на р/с)"
+  }
+]

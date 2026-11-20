@@ -1,0 +1,24 @@
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environment & secrets
+.env
+.env.*
+
+# Audit outputs & local snapshots / balance files
+audit_report/
+audit_out/
+actual_balances.json
+actual_balances.csv
+snapshot*.json
+
+# Keep example templates tracked
+!templates/actual_balances.example.json
+!templates/actual_balances.example.csv
+
+# OS junk
+.DS_Store
+Thumbs.db
